@@ -11,3 +11,8 @@ contactar a equipa;
 2.5) wireframes: 
 Loja;
 Carrinho de compras;
+
+adicionar preço por hora no project 
+
+criar uma estrutura para mostra favoritos
+colocar informações dos favoritos na estruturaa  
